@@ -43,10 +43,10 @@ RM = /home/hagairaja/Documents/Installer/CLion/CLion-2018.3.4/clion-2018.3.4/bin
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hagairaja/Documents/GrafKom/Dragons
+CMAKE_SOURCE_DIR = /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Dragons.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/Dragons.dir/flags.make
 
 CMakeFiles/Dragons.dir/main.cpp.o: CMakeFiles/Dragons.dir/flags.make
 CMakeFiles/Dragons.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Dragons.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Dragons.dir/main.cpp.o -c /home/hagairaja/Documents/GrafKom/Dragons/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Dragons.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Dragons.dir/main.cpp.o -c /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/main.cpp
 
 CMakeFiles/Dragons.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Dragons.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hagairaja/Documents/GrafKom/Dragons/main.cpp > CMakeFiles/Dragons.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/main.cpp > CMakeFiles/Dragons.dir/main.cpp.i
 
 CMakeFiles/Dragons.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Dragons.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hagairaja/Documents/GrafKom/Dragons/main.cpp -o CMakeFiles/Dragons.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/main.cpp -o CMakeFiles/Dragons.dir/main.cpp.s
 
 CMakeFiles/Dragons.dir/glad.c.o: CMakeFiles/Dragons.dir/flags.make
 CMakeFiles/Dragons.dir/glad.c.o: ../glad.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Dragons.dir/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Dragons.dir/glad.c.o   -c /home/hagairaja/Documents/GrafKom/Dragons/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Dragons.dir/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Dragons.dir/glad.c.o   -c /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c
 
 CMakeFiles/Dragons.dir/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Dragons.dir/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hagairaja/Documents/GrafKom/Dragons/glad.c > CMakeFiles/Dragons.dir/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c > CMakeFiles/Dragons.dir/glad.c.i
 
 CMakeFiles/Dragons.dir/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Dragons.dir/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hagairaja/Documents/GrafKom/Dragons/glad.c -o CMakeFiles/Dragons.dir/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c -o CMakeFiles/Dragons.dir/glad.c.s
 
 # Object files for target Dragons
 Dragons_OBJECTS = \
@@ -95,7 +95,7 @@ Dragons: CMakeFiles/Dragons.dir/main.cpp.o
 Dragons: CMakeFiles/Dragons.dir/glad.c.o
 Dragons: CMakeFiles/Dragons.dir/build.make
 Dragons: CMakeFiles/Dragons.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Dragons"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Dragons"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Dragons.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/Dragons.dir/clean:
 .PHONY : CMakeFiles/Dragons.dir/clean
 
 CMakeFiles/Dragons.dir/depend:
-	cd /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hagairaja/Documents/GrafKom/Dragons /home/hagairaja/Documents/GrafKom/Dragons /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/Dragons.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles/Dragons.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Dragons.dir/depend
 

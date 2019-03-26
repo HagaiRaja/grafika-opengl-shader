@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug"/>
+				<Option working_dir="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug"/>
+				<Option working_dir="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug"/>
+				<Option working_dir="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Dragons">
-				<Option output="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Dragons" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug"/>
+				<Option output="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Dragons" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +54,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dragons"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dragons"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Dragons/fast">
-				<Option output="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Dragons" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug"/>
+				<Option output="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Dragons" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,15 +77,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dragons/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dragons/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gradient_sample">
-				<Option output="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/gradient_sample" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug"/>
+				<Option output="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/gradient_sample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -100,15 +100,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 gradient_sample"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 gradient_sample"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gradient_sample/fast">
-				<Option output="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/gradient_sample" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug"/>
+				<Option output="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/gradient_sample" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -123,24 +123,24 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 gradient_sample/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 gradient_sample/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hagairaja/Documents/GrafKom/Dragons/background_gradients.cpp">
+		<Unit filename="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/background_gradients.cpp">
 			<Option target="gradient_sample"/>
 		</Unit>
-		<Unit filename="/home/hagairaja/Documents/GrafKom/Dragons/glad.c">
+		<Unit filename="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c">
 			<Option target="Dragons"/>
 			<Option target="gradient_sample"/>
 		</Unit>
-		<Unit filename="/home/hagairaja/Documents/GrafKom/Dragons/main.cpp">
+		<Unit filename="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/main.cpp">
 			<Option target="Dragons"/>
 		</Unit>
-		<Unit filename="/home/hagairaja/Documents/GrafKom/Dragons/CMakeLists.txt">
+		<Unit filename="/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

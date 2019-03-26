@@ -43,10 +43,10 @@ RM = /home/hagairaja/Documents/Installer/CLion/CLion-2018.3.4/clion-2018.3.4/bin
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hagairaja/Documents/GrafKom/Dragons
+CMAKE_SOURCE_DIR = /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/gradient_sample.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/gradient_sample.dir/flags.make
 
 CMakeFiles/gradient_sample.dir/background_gradients.cpp.o: CMakeFiles/gradient_sample.dir/flags.make
 CMakeFiles/gradient_sample.dir/background_gradients.cpp.o: ../background_gradients.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/gradient_sample.dir/background_gradients.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gradient_sample.dir/background_gradients.cpp.o -c /home/hagairaja/Documents/GrafKom/Dragons/background_gradients.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/gradient_sample.dir/background_gradients.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gradient_sample.dir/background_gradients.cpp.o -c /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/background_gradients.cpp
 
 CMakeFiles/gradient_sample.dir/background_gradients.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gradient_sample.dir/background_gradients.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hagairaja/Documents/GrafKom/Dragons/background_gradients.cpp > CMakeFiles/gradient_sample.dir/background_gradients.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/background_gradients.cpp > CMakeFiles/gradient_sample.dir/background_gradients.cpp.i
 
 CMakeFiles/gradient_sample.dir/background_gradients.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gradient_sample.dir/background_gradients.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hagairaja/Documents/GrafKom/Dragons/background_gradients.cpp -o CMakeFiles/gradient_sample.dir/background_gradients.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/background_gradients.cpp -o CMakeFiles/gradient_sample.dir/background_gradients.cpp.s
 
 CMakeFiles/gradient_sample.dir/glad.c.o: CMakeFiles/gradient_sample.dir/flags.make
 CMakeFiles/gradient_sample.dir/glad.c.o: ../glad.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/gradient_sample.dir/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/gradient_sample.dir/glad.c.o   -c /home/hagairaja/Documents/GrafKom/Dragons/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/gradient_sample.dir/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/gradient_sample.dir/glad.c.o   -c /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c
 
 CMakeFiles/gradient_sample.dir/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/gradient_sample.dir/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hagairaja/Documents/GrafKom/Dragons/glad.c > CMakeFiles/gradient_sample.dir/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c > CMakeFiles/gradient_sample.dir/glad.c.i
 
 CMakeFiles/gradient_sample.dir/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/gradient_sample.dir/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hagairaja/Documents/GrafKom/Dragons/glad.c -o CMakeFiles/gradient_sample.dir/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c -o CMakeFiles/gradient_sample.dir/glad.c.s
 
 # Object files for target gradient_sample
 gradient_sample_OBJECTS = \
@@ -95,7 +95,7 @@ gradient_sample: CMakeFiles/gradient_sample.dir/background_gradients.cpp.o
 gradient_sample: CMakeFiles/gradient_sample.dir/glad.c.o
 gradient_sample: CMakeFiles/gradient_sample.dir/build.make
 gradient_sample: CMakeFiles/gradient_sample.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable gradient_sample"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable gradient_sample"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gradient_sample.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/gradient_sample.dir/clean:
 .PHONY : CMakeFiles/gradient_sample.dir/clean
 
 CMakeFiles/gradient_sample.dir/depend:
-	cd /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hagairaja/Documents/GrafKom/Dragons /home/hagairaja/Documents/GrafKom/Dragons /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/gradient_sample.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug /home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles/gradient_sample.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/gradient_sample.dir/depend
 

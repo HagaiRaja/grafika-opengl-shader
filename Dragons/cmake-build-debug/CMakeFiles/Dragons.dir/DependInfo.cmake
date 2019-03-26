@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/hagairaja/Documents/GrafKom/Dragons/glad.c" "/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/Dragons.dir/glad.c.o"
+  "/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/glad.c" "/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles/Dragons.dir/glad.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -13,7 +13,7 @@ set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hagairaja/Documents/GrafKom/Dragons/main.cpp" "/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/Dragons.dir/main.cpp.o"
+  "/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/main.cpp" "/home/hagairaja/Documents/GrafKom/grafika-opengl-shader/Dragons/cmake-build-debug/CMakeFiles/Dragons.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
