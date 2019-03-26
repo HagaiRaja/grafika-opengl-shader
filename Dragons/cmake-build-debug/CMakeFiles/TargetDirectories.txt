@@ -1,0 +1,4 @@
+/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/Dragons.dir
+/home/hagairaja/Documents/GrafKom/Dragons/cmake-build-debug/CMakeFiles/gradient_sample.dir

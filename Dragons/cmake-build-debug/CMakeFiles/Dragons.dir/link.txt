@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Dragons.dir/main.cpp.o CMakeFiles/Dragons.dir/glad.c.o  -o Dragons -lGLU -lglfw3 -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor -lassimp 

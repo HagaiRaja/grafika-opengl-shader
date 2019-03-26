@@ -1,0 +1,3 @@
+/home/hagairaja/Documents/GrafKom/Gradient_Pentagon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hagairaja/Documents/GrafKom/Gradient_Pentagon/cmake-build-debug/CMakeFiles/Gradient_Pentagon.dir
+/home/hagairaja/Documents/GrafKom/Gradient_Pentagon/cmake-build-debug/CMakeFiles/edit_cache.dir

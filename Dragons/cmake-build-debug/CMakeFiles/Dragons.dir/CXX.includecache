@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hagairaja/Documents/GrafKom/Dragons/main.cpp
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+iostream
+-
+fstream
+-
+vector
+-
+

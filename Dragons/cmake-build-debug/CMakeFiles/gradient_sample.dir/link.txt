@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gradient_sample.dir/background_gradients.cpp.o CMakeFiles/gradient_sample.dir/glad.c.o  -o gradient_sample 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Gradient_Pentagon.dir/main.cpp.o CMakeFiles/Gradient_Pentagon.dir/glad.c.o  -o Gradient_Pentagon -lGLU -lglfw3 -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor -lassimp 
